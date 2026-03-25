@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "j2079443-web",
+        "email": "j2079443@gmail.com"
+    },
+    "records": {
+        "NS": [
+            "keanu.ns.cloudflare.com",
+            "poppy.ns.cloudflare.com"
+        ]
+    }
+}
+
